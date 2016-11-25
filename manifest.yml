@@ -1,0 +1,7 @@
+---
+applications:
+- name: PRFTNotifierMessageHandler
+  memory: 512mb
+  random-route: true
+  path: target/PRFTNotifierMessageHandler.war
+
